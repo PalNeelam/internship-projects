@@ -1,2 +1,2 @@
-# The Spark Foundation Internship-Project
-Data Science&Business Analaytics Projects
+# The Spark Foundation Internship-Projects
+Data Science & Business Analaytics Projects
